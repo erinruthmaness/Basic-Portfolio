@@ -7,42 +7,58 @@
     <link rel="stylesheet" type="text/css" href="assets/css/reset.css">
     <!-- my basic color scheme and layout -->
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
-    <!-- CSS specific to the main About page -->
+    <!-- general style stuff -->
+    <link rel="stylesheet" type="text/css" href="assets/css/contact-style.css">
+    <!-- additional form formatting -->
 
 </head>
 
 <body>
-    <div class="clearfix headerfix">
-        <header>
-            <div class="bigname">
-                <strong>Erin Ruth Maness</strong>
-            </div>
-            <div class="smallname">
-                <a href="contact.html">Contact</a>
-            </div>
-            <div class="smallname notcontact">
-                <a href="portfolio.html">Portfolio</a>
-            </div>
-            <div class="smallname notcontact">
-                <a href="index.html">About</a>
-            </div>
-        </header>
-    </div>
+    <div class="wrapper">
 
-    <div class="clearfix">
-        <div class="body">
-            <div class="mainblock">
-                <div>
-                    <h2>Contact</h2>
-                    <hr>
-                    <form>
-                        Name: <input type="text">
-                        Email: <input type="email">
-                        Message: <input type="text">
-                    </form>
-                    <button>Submit</button>
+        <div class="clearfix headerfix">
+            <header>
+                <div class="bigname">
+                    <strong>Erin Ruth Maness</strong>
+                </div>
+                <div class="smallname">
+                    <a href="contact.html">Contact</a>
+                </div>
+                <div class="smallname notcontact">
+                    <a href="portfolio.html">Portfolio</a>
+                </div>
+                <div class="smallname notcontact">
+                    <a href="index.html">About</a>
+                </div>
+            </header>
+        </div>
+
+        <div class="clearfix">
+            <div class="body">
+                <div class="mainblock">
+                    <div>
+                        <h2>Contact</h2>
+                        <hr>
+                        <form>
+                            <p>Name:</p> 
+                            <br>
+                            <input type="text">
+                            <br>
+                            <p>Email:</p>
+                            <br>
+                            <input type="email">
+                            <br>
+                            <p>Message:</p>
+                            <br>
+                            <input class="message" type="text">
+                        </form>
+                        <br>
+                        <button>Submit</button>
+                    </div>
                 </div>
             </div>
+            <div class="push"></div>
+
         </div>
     </div>
 

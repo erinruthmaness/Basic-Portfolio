@@ -1,0 +1,41 @@
+.mainblock {
+    position: relative;
+    overflow: auto;
+}
+
+.body {
+    height: 1000px;
+}
+
+table {
+    padding: 10px;
+    margin: 10px;
+}
+
+th, td {
+    padding: 20px;
+}
+
+.toprow {
+    padding-top: 0px;
+}
+
+.photoicon {
+    width: 195px;
+    margin: 0px 10px 10px 0px;
+    position: relative;
+}
+
+.photobutton {
+    width: 195px;
+    background-color: hotpink;
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    padding: 10px;;
+    position: absolute;
+    top: 140px;
+    left: -10px;
+    border: solid 1px gray;
+    overflow: auto;
+}
