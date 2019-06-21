@@ -2,6 +2,15 @@ body {
     margin: 0;
 }
 
+a:link, a:visited {
+    color: gray;
+    text-decoration: none;
+}
+
+a:hover {
+    color: hotpink;
+}
+
 .clearfix::after {
     content: "";
     clear: both;

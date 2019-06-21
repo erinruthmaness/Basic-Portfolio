@@ -39,3 +39,12 @@ th, td {
     border: solid 1px gray;
     overflow: auto;
 }
+
+.thumblink:link, .thumblink:visited {
+    color: white;
+    text-decoration: none;
+}
+
+.thumblink:hover {
+    color: gray;
+}
