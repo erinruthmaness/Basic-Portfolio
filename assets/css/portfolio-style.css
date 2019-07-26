@@ -1,29 +1,31 @@
 .mainblock {
-    position: relative;
     overflow: auto;
 }
 
-/* .body { */
-    /* height: 1000px; */
-/* } */
+.portfolio-dash {
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
 
-table {
+h2 {
+    text-align: left;
+    margin-top: 10px;
+}
+
+.outer-photoicon {
+    float: left;
     padding: 10px;
     margin: 10px;
 }
 
-th, td {
-    padding: 20px;
-}
-
-.toprow {
-    padding-top: 0px;
-}
-
 .photoicon {
-    width: 195px;
-    margin: 0px 10px 10px 0px;
+    float: center;
     position: relative;
+}
+
+img {
+    width: 195px;
 }
 
 .photobutton {
@@ -34,7 +36,7 @@ th, td {
     font-size: 18px;
     padding: 10px;;
     position: absolute;
-    top: 140px;
+    top: 115px;
     left: -10px;
     border: solid 1px gray;
     overflow: auto;
