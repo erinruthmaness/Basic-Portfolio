@@ -1,8 +1,13 @@
 var links = {
+    project8: {
+        name: "LIRI Node App",
+        link: "https://github.com/erinruthmaness/liri-node-app/",
+        img: "assets/images/liri.gif",
+    },
     project7: {
         name: "Circuitous",
         link: "https://erinruthmaness.github.io/circuitous/",
-        img: "assets/images/circuitous.jpg"
+        img: "assets/images/circuitous.jpg",
     } ,
     project6: {
         name: "Rock Paper Scissors",

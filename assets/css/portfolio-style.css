@@ -8,19 +8,25 @@
     margin-bottom: 10px;
 }
 
+#portfolio-links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: stretch;
+}
+
 h2 {
     text-align: left;
     margin-top: 10px;
 }
 
 .outer-photoicon {
-    float: left;
+
     padding: 10px;
     margin: 10px;
 }
 
 .photoicon {
-    float: center;
     position: relative;
 }
 
