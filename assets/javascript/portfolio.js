@@ -1,4 +1,9 @@
 var links = {
+    project9: {
+        name: "Node Word Guess",
+        link: "https://github.com/erinruthmaness/node-wordguess",
+        img: "assets/images/9-wordguess.gif",
+    },
     project8: {
         name: "LIRI Node App",
         link: "https://github.com/erinruthmaness/liri-node-app/",
