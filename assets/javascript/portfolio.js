@@ -1,4 +1,9 @@
 var links = {
+    project12: {
+        name: "Study Mob",
+        link: "https://studymob.herokuapp.com/",
+        img: "assets/images/12-studymob.jpg"
+    },
     project11: {
         name: "Feed the Master",
         link: "https://quiet-castle-86709.herokuapp.com/",
