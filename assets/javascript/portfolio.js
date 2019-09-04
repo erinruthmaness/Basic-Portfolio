@@ -1,4 +1,9 @@
 var links = {
+    project13: {
+        name: "The ABBA Shuffle",
+        link: "https://erinruthmaness.github.io/clicky-game/",
+        img: "assets/images/13-shuffle.jpg"
+    },
     project12: {
         name: "Study Mob",
         link: "https://studymob.herokuapp.com/",
