@@ -1,23 +1,23 @@
 var links = {
     project14: {
-        name: "FriendFace",
-        link: "https://rocky-bayou-15184.herokuapp.com/",
-        img: "assets/images/14-friendface.jpg"
-    },
-    project13: {
         name: "The ABBA Shuffle",
         link: "https://erinruthmaness.github.io/clicky-game/",
-        img: "assets/images/13-shuffle.jpg"
+        img: "assets/images/14-shuffle.jpg"
     },
-    project12: {
+    project13: {
         name: "Study Mob",
         link: "https://studymob.herokuapp.com/",
-        img: "assets/images/12-studymob.jpg"
+        img: "assets/images/13-studymob.jpg"
     },
-    project11: {
+    project12: {
         name: "Feed the Master",
         link: "https://quiet-castle-86709.herokuapp.com/",
-        img: "assets/images/11-feedhim.jpg"
+        img: "assets/images/12-feedhim.jpg"
+    },
+    project11: {
+        name: "FriendFace",
+        link: "https://rocky-bayou-15184.herokuapp.com/",
+        img: "assets/images/11-friendface.jpg"
     },
     project10: {
         name: "cBay Node App",
